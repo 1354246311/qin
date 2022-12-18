@@ -1,0 +1,14 @@
+RPA
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   RPA/LPA_1e-4_best.pth
+#	new file:   RPA/RPA_1e-4_loss_test.npy
+#	new file:   RPA/RPA_1e-4_loss_train.npy
+#	new file:   RPA/RPA_1e-4_metric_test.npy
+#	new file:   RPA/RPA_1e-4_metric_train.npy
+#
